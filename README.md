@@ -44,6 +44,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <img alt="Cadastro" src="/assets/img/address-register.png">
 </p>
 
+## :clipboard: Pré-requisitos
+
+Para executar esta aplicação em seu dispositivo no modo de desenvolvimento você precisará ter as seguintes dependências devidamente instaladas e configuradas:
+
+* <a href="https://nodejs.org/en/" target="_blank">NodeJS</a> (Preferencialmente em sua última versão LTS)
+
 ## :zap: Executando a aplicação
 
 ```bash
