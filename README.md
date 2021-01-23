@@ -23,6 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [VeeValidate](https://vee-validate.logaretm.com/v3)
 - [Vuetify](https://vuetifyjs.com/en/)
 - [ViaCEP](https://viacep.com.br/)
+- [Axios](https://github.com/axios/axios)
 
 > Veja o arquivo [package.json](https://github.com/caarloshenrique/frontend-challenge-leiloapp/blob/master/package.json
 )
