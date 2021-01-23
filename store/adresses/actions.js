@@ -1,7 +1,7 @@
 export default {
   async get({commit}, zipCode) {
     try {
-      await this.$axios.$get(`http://viacep.com.br/ws/${zipCode}/json`).then((res) => {
+      await this.$axios.$get(`https://viacep.com.br/ws/${zipCode}/json`).then((res) => {
         commit('set', res)
       })
     } catch (error) {
