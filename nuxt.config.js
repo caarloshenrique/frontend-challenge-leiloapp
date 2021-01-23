@@ -75,5 +75,8 @@ export default {
 
   //Deploy
   target: 'static',
-  ssr: false
+  ssr: false,
+  generate: {
+    fallback: true
+  }
 }
