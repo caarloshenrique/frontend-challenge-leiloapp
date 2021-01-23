@@ -14,6 +14,10 @@ E-address é um desafio proposto pela startup LeiloApp. O desafio propõe o dese
 <p>:white_check_mark: Edição de endereços;</p>
 <p>:white_check_mark: Exclusão de endereços.</p>
 
+## :globe_with_meridians: Hospedagem
+O projeto encontra-se disponível **[nesse link](https://e-address.netlify.app/)**.
+
+Deploy realizado por meio da plataforma **[Netlify](https://www.netlify.com/)**.
 
 ## :rocket: Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
