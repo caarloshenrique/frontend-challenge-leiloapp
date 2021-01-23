@@ -1,4 +1,4 @@
-# frontend-challenge-leiloapp
+# E-address: gerenciamento de endereços
 
 ## Build Setup
 
