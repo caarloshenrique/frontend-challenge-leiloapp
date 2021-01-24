@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/caarloshenrique/frontend-challenge-leiloapp?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/caarloshenrique/frontend-challenge-leiloapp?color=%2304D361">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/caarloshenrique/frontend-challenge-leiloapp">
   <a href="https://github.com/caarloshenrique/frontend-challenge-leiloapp/master">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/caarloshenrique/frontend-challenge-leiloapp/master">
