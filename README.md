@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/carlos-henrique-costa-silva/">
     <img alt="Made by Carlos Henrique" src="https://img.shields.io/badge/made%20by-caarloshenrique-%2304D361">
   </a>
+  <a href="https://github.com/caarloshenrique/frontend-challenge-leiloapp/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/caarloshenrique/frontend-challenge-leiloapp">
+  </a>
   <img alt="License" src="https://img.shields.io/github/license/caarloshenrique/frontend-challenge-leiloapp">
 </p>
 
