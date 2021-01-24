@@ -1,9 +1,23 @@
+![languages](https://img.shields.io/github/languages/count/caarloshenrique/frontend-challenge-leiloapp?color=%2304D361)
+[![last commit](https://img.shields.io/github/last-commit/caarloshenrique/frontend-challenge-leiloapp/master)](https://github.com/caarloshenrique/frontend-challenge-leiloapp/commits/master)
+[![license](https://img.shields.io/github/license/caarloshenrique/frontend-challenge-leiloapp)](/LICENSE)
 
 <p align="center">
  <img height="300" alt="E-address" src="/assets/img/address.png">
 </p>
 
 <h2 align="center">:round_pushpin: E-address: gerenciamento de endereços</h2>
+
+<p align="center">
+ <a href="#computer-sobre-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#globe_with_meridians-hospedagem">Hospedagem</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-interfaces">Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#zap-executando-a-aplicação">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_facing_up-licença">Licença</a>
+</p>
 
 ## :computer: Sobre o projeto
 E-address é um desafio proposto pela startup LeiloApp. O desafio propõe o desenvolvimento de aplicação client-side para armazenar uma lista de endereços.
