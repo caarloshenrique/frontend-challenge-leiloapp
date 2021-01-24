@@ -1,6 +1,14 @@
-![languages](https://img.shields.io/github/languages/count/caarloshenrique/frontend-challenge-leiloapp?color=%2304D361)
-[![last commit](https://img.shields.io/github/last-commit/caarloshenrique/frontend-challenge-leiloapp/master)](https://github.com/caarloshenrique/frontend-challenge-leiloapp/commits/master)
-[![license](https://img.shields.io/github/license/caarloshenrique/frontend-challenge-leiloapp)](/LICENSE)
+<p align="center">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/caarloshenrique/frontend-challenge-leiloapp?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/caarloshenrique/frontend-challenge-leiloapp">
+  <a href="https://github.com/caarloshenrique/frontend-challenge-leiloapp/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/caarloshenrique/frontend-challenge-leiloapp/master">
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-henrique-costa-silva/">
+    <img alt="Made by Carlos Henrique" src="https://img.shields.io/badge/made%20by-caarloshenrique-%2304D361">
+  </a>
+  <img alt="License" src="https://img.shields.io/github/license/caarloshenrique/frontend-challenge-leiloapp">
+</p>
 
 <p align="center">
  <img height="300" alt="E-address" src="/assets/img/address.png">
